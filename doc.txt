@@ -1,2 +1,2 @@
 The file contains essential docs
-Hello
+Hello, and welcome to Shadow-Soft
